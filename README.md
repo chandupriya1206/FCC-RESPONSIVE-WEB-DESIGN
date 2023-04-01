@@ -8,4 +8,5 @@ Here iam adding details about project ( https://www.freecodecamp.org/learn/2022/
 PROJECT TITLE : Learn HTML by building a cat photo app
 
 DESCRIPTION : HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.,In this course, you'll learn the most common HTML tags by building your own cat photo app.
-You dont have install anything for doing this project. just click on the link and start the project. It's very interactive and fun while  doing.
+
+You dont have to install anything for doing this project, just click on the link above and start the project. It's very interactive and fun while  doing.
